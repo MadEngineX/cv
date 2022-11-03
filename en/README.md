@@ -4,7 +4,7 @@
 >
 > Living: Bishkek, Kyrgyzstan
 >
-> Profesy: TechLead SRE
+> Current position: TechLead SRE
 >
 > Working: RSHB-Intech
 
@@ -80,7 +80,7 @@ Mar 2019 - Jun 2020
 #### Higher education
 
 ```
-Sen 2014 - Feb 2020
+Sep 2014 - Feb 2020
 ```
 
 > Moscow State Technical University of Radio Engineering, Electronics and Automation, Moscow
@@ -157,7 +157,7 @@ Something about my skills:
 
 #### About myself
 
-I love education process. And I love it not only as student, but as a teacher too. I wrote 2 education courses, which auditory is over 8000 students (https://stepik.org/course/99188/promo). 
+I love education process. And I love it not only as a student, but as a teacher too. I have written 2 education courses, which auditory is over 8000 students (https://stepik.org/course/99188/promo). 
 
 I read O'Reilly and Packt books. And I am hungry for the knowledge. 
 
