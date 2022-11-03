@@ -4,7 +4,7 @@
 >
 > Living: Bishkek, Kyrgyzstan
 >
-> Profesy: TechLead SRE
+> Current position: TechLead SRE
 >
 > Working: RSHB-Intech
 
